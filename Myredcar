@@ -1,0 +1,16 @@
+speed 1000
+pen red
+rt 360,20
+lt 90
+fd 60
+lt 90
+rt 540,20
+fd 10
+rt 90,20
+lt 90
+rt 90, 60
+rt 90,60
+lt 90
+rt 90, 30
+rt 90
+fd 30
