@@ -1,10 +1,11 @@
 speed 1000
-pen red
+pen black
 rt 360,20
 lt 90
 fd 60
 lt 90
 rt 540,20
+fill pink
 fd 10
 rt 90,20
 lt 90
